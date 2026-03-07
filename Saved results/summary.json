@@ -1,0 +1,48 @@
+{
+  "train_accuracy": 0.9916805324459235,
+  "test_accuracy": 1.0,
+  "n_features": 47,
+  "window_sec": 1.0,
+  "sampling_hz": 100,
+  "n_hmm_states": 2,
+  "activities": [
+    "standing",
+    "walking",
+    "jumping",
+    "still"
+  ],
+  "per_class_metrics": [
+    {
+      "Activity": "Standing",
+      "N Samples": 30,
+      "Sensitivity": 1.0,
+      "Specificity": 1.0,
+      "Accuracy": 1.0,
+      "Overall Accuracy": 1.0
+    },
+    {
+      "Activity": "Walking",
+      "N Samples": 30,
+      "Sensitivity": 1.0,
+      "Specificity": 1.0,
+      "Accuracy": 1.0,
+      "Overall Accuracy": 1.0
+    },
+    {
+      "Activity": "Jumping",
+      "N Samples": 23,
+      "Sensitivity": 1.0,
+      "Specificity": 1.0,
+      "Accuracy": 1.0,
+      "Overall Accuracy": 1.0
+    },
+    {
+      "Activity": "Still",
+      "N Samples": 32,
+      "Sensitivity": 1.0,
+      "Specificity": 1.0,
+      "Accuracy": 1.0,
+      "Overall Accuracy": 1.0
+    }
+  ]
+}
