@@ -1,4 +1,4 @@
-# Modeling Human Activity States Using Hidden Markov Models
+# Hidden Markov Models - [ HMM Group 43 ]
 
 > **Course Project — Human Activity Recognition with Smartphone Inertial Sensors**
 > Jean & Thierry | March 2026
@@ -32,8 +32,8 @@ This project implements a **Hidden Markov Model (HMM)**-based pipeline for recog
 │   └── still/
 │       ├── jean_still_1/
 │       └── ...
-├── HMM_Human_Activity_Recognition.ipynb   # Main notebook
-├── HAR_HMM_Report.docx                    # Full project report (4–5 pages)
+├── HMM_Human_Activity_Recognition G43.ipynb   # Main notebook
+├── Hidden Markov Models - [ HMM Group 43 ]Report.docx                    # Full project report (4–5 pages)
 └── README.md                              # This file
 ```
 
